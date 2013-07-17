@@ -1,5 +1,5 @@
 {
-    "name": "widmogrod/zf2-facebook-module",
+    "name": "timmtim/zf2-facebook-module",
     "description": "Zend Framework 2 module providing integration with Facebook php-sdk",
     "license": "MIT",
     "keywords": [
